@@ -3,7 +3,7 @@
 
 https://github.com/Andrei-web-front/ai_assistent/blob/main/%D1%87%D0%B0%D1%82%20%D0%B2%20%D1%82%D0%BB%D0%B3.png?raw=true
 
-(https://github.com/Andrei-web-front/ai_assistent/blob/main/%D1%87%D0%B0%D1%82%20%D0%B2%20%D1%82%D0%BB%D0%B3.png?raw=true)
+[(https://github.com/Andrei-web-front/ai_assistent/blob/main/%D1%87%D0%B0%D1%82%20%D0%B2%20%D1%82%D0%BB%D0%B3.png?raw=true)](https://github.com/Andrei-web-front/ai_assistent/blob/main/%D1%87%D0%B0%D1%82%20%D0%B2%20%D1%82%D0%BB%D0%B3.png)
 
 
 ## Описание проекта
